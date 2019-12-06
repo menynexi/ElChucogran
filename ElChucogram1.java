@@ -8,6 +8,8 @@ By including my name below, I confirm that:
 Modified and submitted by: [MANUEL GUTIERREZ JR] 
 */ 
   
+//this was made today
+
 //classes many imported
 import java.util.Scanner;//imported Scanner
 import java.io.FileWriter;//import FileWriter to be able to Write on a file
